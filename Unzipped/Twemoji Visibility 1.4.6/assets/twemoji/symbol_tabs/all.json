@@ -1,0 +1,15 @@
+{
+    "icon": "🔍",
+    "order": 0,
+    "search_bar": true,
+    "symbols": [
+        "ghostgang:custom",
+        "twemoji:people",
+        "twemoji:nature",
+        "twemoji:food",
+        "twemoji:activity",
+        "twemoji:travel",
+        "twemoji:objects",
+        "twemoji:symbols"
+    ]
+}
