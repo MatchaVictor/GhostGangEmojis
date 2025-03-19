@@ -3,6 +3,7 @@
     "order": 0,
     "search_bar": true,
     "symbols": [
+        "ghostgang:custom",
         "twemoji:people",
         "twemoji:nature",
         "twemoji:food",

@@ -1,6 +1,22 @@
 {
     "providers": [
         {
+            "type": "space",
+            "advances": {
+                ":": 4
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "ghostgang:emojis/custom/%s.png",
+            "height": 8,
+            "ascent": 7,
+            "type": "bitmap",
+            "patterns": [
+                ":[a-zA-Z0-9_]+:"
+            ]
+        },
+        {
             "type": "reference",
             "id": "twemoji:twemoji"
         }
