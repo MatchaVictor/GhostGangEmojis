@@ -11,7 +11,6 @@
             "file": "ghostgang:emojis/custom/%s.png",
             "height": 8,
             "ascent": 7,
-            "type": "bitmap",
             "patterns": [
                 ":[a-zA-Z0-9_]+:"
             ]
