@@ -1,0 +1,17 @@
+// filepath: /workspaces/GhostGangEmojis/Unzipped/Twemoji Visibility 1.4.6/assets/twemoji/font/twemoji.json
+{
+    "format_version": "1.10",
+    "font": {
+        "default": "twemoji",
+        "fallback": "default",
+        "textures": {
+            "Alert0": "twemoji:Alert0.gif",
+            "AdminAbooz0": "twemoji:AdminAbooz0.png",
+            "AdminBan0": "twemoji:AdminBan0.gif",
+            "Angel0": "twemoji:Angel0.png",
+            "AngryCinnamon0": "twemoji:AngryCinnamon0.png",
+            "AngryPanda0": "twemoji:AngryPanda0.png"
+            // Add additional emoji entries here following the same format
+        }
+    }
+}

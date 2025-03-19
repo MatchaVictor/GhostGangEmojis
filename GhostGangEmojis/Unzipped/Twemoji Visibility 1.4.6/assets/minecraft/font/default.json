@@ -1,0 +1,39 @@
+{
+    "providers": [
+        {
+            "type": "reference",
+            "id": "twemoji:twemoji"
+        },
+        {
+            "type": "emoji",
+            "id": "emoji:Alert0",
+            "file": "twemoji/font/Alert0.gif"
+        },
+        {
+            "type": "emoji",
+            "id": "emoji:AdminAbooz0",
+            "file": "twemoji/font/AdminAbooz0.png"
+        },
+        {
+            "type": "emoji",
+            "id": "emoji:AdminBan0",
+            "file": "twemoji/font/AdminBan0.gif"
+        },
+        {
+            "type": "emoji",
+            "id": "emoji:Angel0",
+            "file": "twemoji/font/Angel0.png"
+        },
+        {
+            "type": "emoji",
+            "id": "emoji:AngryCinnamon0",
+            "file": "twemoji/font/AngryCinnamon0.png"
+        },
+        {
+            "type": "emoji",
+            "id": "emoji:AngryPanda0",
+            "file": "twemoji/font/AngryPanda0.png"
+        }
+        // Add additional emoji entries here following the same format
+    ]
+}

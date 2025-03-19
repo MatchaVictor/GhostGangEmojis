@@ -1,0 +1,13 @@
+{
+    "icon": "🎮",
+    "order": 5,
+    "symbols": [
+        "twemoji:Alert0",
+        "twemoji:AdminAbooz0",
+        "twemoji:AdminBan0",
+        "twemoji:Angel0",
+        "twemoji:AngryCinnamon0",
+        "twemoji:AngryPanda0"
+        // Add additional emoji references here in the format "twemoji:EmojiName"
+    ]
+}
